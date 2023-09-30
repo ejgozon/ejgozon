@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm an IT student, aspiring to be an IT specialist. 🤓
 
 <!--
 **ejgozon/ejgozon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
